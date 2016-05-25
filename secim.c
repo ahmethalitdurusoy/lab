@@ -12,6 +12,5 @@ int main() {
 		printf("Git cakilda oyna!\n");
 	}
 	
-	
  	return 0;
 }
