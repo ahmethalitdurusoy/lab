@@ -69,4 +69,5 @@ int main(int argc, char *argv[]) {
 	printf("Sonuc >> %d\n", sonuc);
 	printf("Program sonlandi.\n");
 	return 0;
+
 }
