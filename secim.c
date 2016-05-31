@@ -1,6 +1,6 @@
 #include <stdio.h>
 
-/* Coded By. ferrocis */
+/* Coded By. roissy */
 
 int main() {
 	 
