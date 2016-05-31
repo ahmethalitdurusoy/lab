@@ -1,6 +1,6 @@
 #include <stdio.h>
 
-/* Coded By. ferrocis */
+/* Coded By. roissy */
 
 int toplama(int a, int b){
 	int c;
