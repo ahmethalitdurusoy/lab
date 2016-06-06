@@ -9,7 +9,7 @@
 int main(int argc, char **argv)
 {
     char mod[] = "0777";
-    char yigin[100] = "/home/elise/test.txt";
+    char yigin[100] = "/home/roissy/test.txt";
     int i;
     i = strtol(mod, 0, 8);
     if (chmod (yigin,i) < 0)
