@@ -4,7 +4,7 @@
 #include <errno.h>
 #include <sys/stat.h>
 
-/* Coded By. elise */
+/* Coded By. roissy */
 
 int main(int argc, char **argv)
 {
