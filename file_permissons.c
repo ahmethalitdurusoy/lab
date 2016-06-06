@@ -9,7 +9,7 @@
 int main(int argc, char **argv)
 {
     char mod[] = "0777";
-    char yigin[100] = "/home/elise/Masaüstü/bokgirersin.txt";
+    char yigin[100] = "/home/elise/test.txt";
     int i;
     i = strtol(mod, 0, 8);
     if (chmod (yigin,i) < 0)
@@ -19,6 +19,6 @@ int main(int argc, char **argv)
         exit(1);
     }
 
-    printf("Coded By. elise, Bug Researchers-CW ^^\n");
+    printf("Coded By. roissy\n");
     return(0);
 }
