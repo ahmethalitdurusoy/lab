@@ -39,9 +39,7 @@ int main(int argc, char *argv[]) {
 		printf("Gecerli bir deger giriniz\n");
 		printf("Program sonlandi.\n");
 		return 0;
-	}
-	
-	if (sec <= 0) {
+	} else if (sec <= 0) {
 		printf("Gecerli bir deger giriniz\n");
 		printf("Program sonlandi.\n");
 		return 0;
