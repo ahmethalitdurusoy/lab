@@ -1,5 +1,5 @@
 <?php
 
-echo "Elveda Dünya"
+echo "Elveda Dünya";
 
 ?>
